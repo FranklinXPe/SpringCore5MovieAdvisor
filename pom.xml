@@ -6,7 +6,7 @@
 	<artifactId>MovieAdvisor</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MovieAdvisor</name>
-	<description>Un gran recomendador de peliculas</description>
+	<description>Un gran recomendador de peliculas- proyecto correspondiente a Spring Core 5</description>
 
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
